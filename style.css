@@ -166,7 +166,7 @@ ul li {
 #close-menu {
     background-color: rgba(102, 51, 153, 0);
     width: 40px;
-    background-image: url("/assets/x-lg.svg");
+    background-image: url("assets/x-lg.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
